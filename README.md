@@ -3,5 +3,7 @@ Django Project to Download Videos From YouTube....
 
 
 Project Created By Me Harsh..With Modern UI & 100% Bug Free..
-If You Have Any Issue About This Project..Feel free to connect with me 👇👇👇
+If You Have Any Issue About This Project..Feel free to connect with me :-
 Instagram:- harsh_durugkar24
+
+To run this project Deploy it directly on a web server or your local server. 
