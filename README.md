@@ -1,5 +1,5 @@
 # YouTube-Video-Downloader-by-Harsh
-Django Project For YouTube Video Downloader....
+Django Project to Download Videos From YouTube....
 
 
 Project Created By Me Harsh..With Modern UI & 100% Bug Free..
